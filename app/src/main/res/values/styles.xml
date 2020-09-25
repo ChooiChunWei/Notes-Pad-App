@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FF0000</item>
+        <item name="colorPrimaryDark">#FFA5A5</item>
+        <item name="colorAccent">#FF0000</item>
+    </style>
+
+    <style name="ThemeOverlay.MySwitch" parent="">
+        <item name="colorControlActivated">#FD0000</item>
+        <item name="colorSwitchThumbNormal">#f1f1f1</item>
+        <item name="android:colorForeground">#42424141</item>
+    </style>
+</resources>
